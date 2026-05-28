@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- Header Banner -->
@@ -30,7 +31,7 @@ public class YogeshS {
     String degree     = "B.E. Computer Science & Engineering (2022–2027)";
     double cgpa       = 8.5;
     String[] roles    = {"Full Stack Developer", "AI Explorer", "Marketing Strategist"};
-    String location   = "India 🇮🇳";
+    String location   = "Banglore";
     String email      = "yrsm9080@gmail.com";
 
     String[] currentlyLearning = {"React.js", "AI/ML", "Cloud Computing"};
@@ -164,47 +165,6 @@ public class YogeshS {
 - 🥈 **2nd Prize** – Hackathon @ **AITERHACK'25**
 - 🥇 **1st Prize** – Paper Presentation @ **Ablaze24**
 - 🛠️ Conducted **IoT Workshop** for juniors (Arduino, Sensors, Real-time Data Monitoring)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yogesh774&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh774&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh774&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yogesh774&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogesh774&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🎯 2025 Goals
-
-- [x] Complete Java Full Stack Internship (Infosys)
-- [x] Complete Salesforce Virtual Internship
-- [x] Win hackathon & paper presentation prizes
-- [ ] Build and deploy 3 full-stack projects
-- [ ] Contribute to open source
-- [ ] Master React.js & Next.js
-- [ ] Explore AI/ML deeper
 
 ---
 
